@@ -1,0 +1,7 @@
+C:\Users\Abdullah\Desktop\C++ Projeler\ConvertingFromInfixToPostfix\ConvertingFromInfixToPostfix\bin\Debug\ConvertingFromInfixToPostfix.exe.config
+C:\Users\Abdullah\Desktop\C++ Projeler\ConvertingFromInfixToPostfix\ConvertingFromInfixToPostfix\bin\Debug\ConvertingFromInfixToPostfix.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\ConvertingFromInfixToPostfix\ConvertingFromInfixToPostfix\bin\Debug\ConvertingFromInfixToPostfix.pdb
+C:\Users\Abdullah\Desktop\C++ Projeler\ConvertingFromInfixToPostfix\ConvertingFromInfixToPostfix\obj\Debug\ConvertingFromInfixToPostfix.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\ConvertingFromInfixToPostfix\ConvertingFromInfixToPostfix\obj\Debug\ConvertingFromInfixToPostfix.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\ConvertingFromInfixToPostfix\ConvertingFromInfixToPostfix\obj\Debug\ConvertingFromInfixToPostfix.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\ConvertingFromInfixToPostfix\ConvertingFromInfixToPostfix\obj\Debug\ConvertingFromInfixToPostfix.pdb
